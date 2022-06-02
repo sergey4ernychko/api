@@ -2,8 +2,8 @@
   "courses": [
     { "id": 1, "name": "Курс 1", "description": "Описание курса", 
        "lessons": [
-                  { "id": 1, "nameLesson": "Курс 1" },
-                  { "id": 2, "nameLesson": "Курс 2" }
+                  { "id": 1, "nameLesson": "Урок 1" },
+                  { "id": 2, "nameLesson": "Урок 2" }
                   ]
     },
     { "id": 2, "name": "Курс 2" },
