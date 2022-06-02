@@ -1,14 +1,13 @@
 {
   "courses": [
-    { "id": 1, "title": "Курс 1" },
-    { "id": 2, "title": "Курс 2" },
-    { "id": 3, "title": "Курс 3" }
+    { "id": 1, "name": "Курс 1" },
+    { "id": 2, "name": "Курс 2" },
+    { "id": 3, "name": "Курс 3" },
+    { "id": 4, "name": "Курс 4" },
+    { "id": 5, "name": "Курс 5" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+
   "profile": {
-    "name": "typicode"
+    "name": "Serhii Chernychko"
   }
 }
